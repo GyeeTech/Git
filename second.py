@@ -2,8 +2,9 @@ print(456)
 
 # Git Commands
 # Flow
-# 1. git add
-# 2. git commit -m 'message'
+# 1. git init
+# 2. git add
+# 3. git commit -m 'message'
 
 
 # Creating A New Branch
@@ -21,3 +22,7 @@ print(456)
 #   3. checked out back to master/main branch
 #   4. make changes in the main/master branch (Then commit it)
 #   5. Merge the test branch into main/master
+#   6. git commit -a -m 'Resolved Conflicts'
+
+
+
